@@ -13,7 +13,7 @@ Welcome to the House Price Prediction Challenge!
 * Profile Link: [Gandharv Kulkarni](https://machinehack.com/user/65dd51b822401c0019068cb6)
 * Rank: 82
 * Score: 0.40532
-[Certificate of Completion](https://github.com/gandharvk422/House_Price_Prediction_Challenge/blob/main/Certificate%20of%20Participation.pdf)
+![Certificate of Completion](https://github.com/gandharvk422/House_Price_Prediction_Challenge/blob/main/Certificate%20of%20Participation.pdf)
 
 ## Overview
 
